@@ -146,17 +146,11 @@ Este proyecto está bajo la Licencia MIT. Ver [LICENSE](LICENSE) para más detal
 
 ## Autor
 
-Desarrollado por **Alejandro Maldonado** como proyecto de portafolio.
+Desarrollado por **Alejandro Maldonado** como proyecto de personal.
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Alejndromaldonado-181717?style=for-the-badge&logo=github)](https://github.com/Alejndromaldonado)
 
 </div>
-
----
-
-<div align="center">
-Hecho con para el portafolio profesional
-
-</div>
+    
